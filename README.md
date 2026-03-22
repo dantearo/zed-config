@@ -1,3 +1,7 @@
-Personal Zed code editor config and theme files
+Personal Zed code editor config and theme files.
 
-under "/.config/zed", place the "settings.json", and under "/.config/zed/themes", place "ark-theme.json"
+Under "/.config/zed", place:
+- "settings.json"
+- "keymap.json"
+
+Under "/.config/zed/themes", place "ark-theme.json"
